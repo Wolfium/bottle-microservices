@@ -1,0 +1,3 @@
+elasticsearch -  pip install elasticsearch
+bottle        -  pip install bottle
+httplib2      -  httplib2-0.9

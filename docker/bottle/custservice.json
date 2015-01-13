@@ -1,0 +1,17 @@
+{
+  "desktop":{
+    "elasticsearch_url":"http://localhost:9200"
+  },
+  "dev":{
+    "elasticsearch_url":"http://dev.elasticsearch:9200"
+  },
+  "systst":{
+    "elasticsearch_url":"http://systst.elasticsearch:9200"
+  },
+  "inttst":{
+    "elasticsearch_url":"http://inttst.elasticsearch:9200"
+  },
+  "prod:":{
+    "elasticsearch_url":"http://prod.elasticsearch:9200"
+  }
+}
